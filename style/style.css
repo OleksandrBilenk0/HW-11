@@ -114,14 +114,11 @@ button.changing_button:hover {
 
 
 
-
-
-
 /* Media */
 
 
 @media (max-width: 1199px) { 
-.row {
+container.row {
     display: block;
 }
 }
